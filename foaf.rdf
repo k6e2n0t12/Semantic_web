@@ -18,6 +18,7 @@
 <foaf:mbox_sha1sum>835cc1eb46bec8614f0a6e06a021994b56898aed</foaf:mbox_sha1sum>
 <foaf:homepage rdf:resource="www.ken12345678.com.tw"/>
 <foaf:phone rdf:resource="tel:09123456789"/>
+<foaf:interest rdf:resource="http://dbpedia.org/page/Category:Car_games"/>
 <foaf:schoolHomepage rdf:resource="http://www.ttu.edu.tw/bin/home.php"/>
 <foaf:knows>
 <foaf:Person>
