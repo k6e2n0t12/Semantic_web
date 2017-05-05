@@ -1,0 +1,34 @@
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:admin="http://webns.net/mvcb/">
+<foaf:PersonalProfileDocument rdf:about="">
+  <foaf:maker rdf:resource="#me"/>
+  <foaf:primaryTopic rdf:resource="#me"/>
+  <admin:generatorAgent rdf:resource="http://www.ldodds.com/foaf/foaf-a-matic"/>
+  <admin:errorReportsTo rdf:resource="mailto:leigh@ldodds.com"/>
+</foaf:PersonalProfileDocument>
+<foaf:Person rdf:ID="me">
+<foaf:name>Ken Lee</foaf:name>
+<foaf:title>Mr</foaf:title>
+<foaf:givenname>Ken</foaf:givenname>
+<foaf:family_name>Lee</foaf:family_name>
+<foaf:nick>Ken</foaf:nick>
+<foaf:mbox_sha1sum>835cc1eb46bec8614f0a6e06a021994b56898aed</foaf:mbox_sha1sum>
+<foaf:homepage rdf:resource="www.ken12345678.com.tw"/>
+<foaf:phone rdf:resource="tel:09123456789"/>
+<foaf:schoolHomepage rdf:resource="http://www.ttu.edu.tw/bin/home.php"/>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>John</foaf:name>
+<foaf:mbox_sha1sum>b6c52dd7a2cac2311dbdafe168b8c0589e208143</foaf:mbox_sha1sum></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Mary</foaf:name>
+<foaf:mbox_sha1sum>499773f831aff9b2a9cb6deb8aef2a237ae48808</foaf:mbox_sha1sum></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Peter</foaf:name>
+<foaf:mbox_sha1sum>8d6d09f24acc31f48faf823ea7b8fc57466e254e</foaf:mbox_sha1sum></foaf:Person></foaf:knows></foaf:Person>
+</rdf:RDF>
